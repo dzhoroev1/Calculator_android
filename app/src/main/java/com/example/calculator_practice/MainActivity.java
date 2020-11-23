@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private Button point;
     private Button sum;
     private Button addition;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
